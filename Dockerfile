@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM debian:sid-slim
 
 ###### DISCLAIMER ######
 #

@@ -48,26 +48,6 @@ FROM goodforgod/debian-jdk11-oracle
 FROM goodforgod/debian-jdk11-oracle:sid
 ```
 
-### Mission Control
-
-Images below contains [Mission Control](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) as well:
-
-#### *mission*
-* Uses base image [Debian Stretch Slim](https://hub.docker.com/_/debian/) *(55.3MB)*
-* Image size with JDK and *Mission Control* *(364MB)*
-
-```dockerfile
-FROM goodforgod/debian-jdk11-oracle:mission
-```
-
-#### *sid-mission*
-* Uses base image [Debian Sid Slim](https://hub.docker.com/_/debian/) *(63.3MB)*
-* Image size with JDK and *Mission Control* *(378MB)*
-
-```dockerfile
-FROM goodforgod/debian-jdk11-oracle:sid-mission
-```
-
 ## Usage
 Image have docker *USER* named **app** so you can use it for your application.
 

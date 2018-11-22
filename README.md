@@ -1,8 +1,8 @@
 # Docker Debian Oracle JDK 11
 
-[![Docker pulls](https://img.shields.io/docker/pulls/goodforgod/debian-jdk10-oracle.svg)](https://registry.hub.docker.com/v2/repositories/goodforgod/debian-jdk11-oracle/)
-[![Docker Stars](https://img.shields.io/docker/stars/goodforgod/debian-jdk10-oracle.svg)](https://registry.hub.docker.com/v2/repositories/goodforgod/debian-jdk11-oracle/)
-[![Docker Automated build](https://img.shields.io/docker/automated/goodforgod/debian-jdk10-oracle.svg?maxAge=31536000)](https://registry.hub.docker.com/v2/repositories/goodforgod/debian-jdk11-oracle/)
+[![Docker pulls](https://img.shields.io/docker/pulls/goodforgod/debian-jdk11-oracle.svg)](https://registry.hub.docker.com/v2/repositories/goodforgod/debian-jdk11-oracle/)
+[![Docker Stars](https://img.shields.io/docker/stars/goodforgod/debian-jdk11-oracle.svg)](https://registry.hub.docker.com/v2/repositories/goodforgod/debian-jdk11-oracle/)
+[![Docker Automated build](https://img.shields.io/docker/automated/goodforgod/debian-jdk11-oracle.svg?maxAge=31536000)](https://registry.hub.docker.com/v2/repositories/goodforgod/debian-jdk11-oracle/)
 
 Docker Debian image with Oracle JDK 11.0.1 (247MB)
 
